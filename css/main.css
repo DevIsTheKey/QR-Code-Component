@@ -29,6 +29,7 @@ html {
 body {
 	font-family: "Outfit", sans-serif;
 	background-color: var(--Light-gray);
+	margin: 0;
 
 	height: 100vh;
 	padding: 0 1em;
